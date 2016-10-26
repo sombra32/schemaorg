@@ -9722,7 +9722,7 @@ Standards bodies should promote a standard prefix for the identifiers of propert
     </div>
     <div typeof="rdf:Property" resource="http://schema.org/isLiveBroadcast">
       <span class="h" property="rdfs:label">isLiveBroadcast</span>
-      <span property="rdfs:comment">True is the broadcast is of a live event.</span>
+      <span property="rdfs:comment">True if the broadcast is of a live event.</span>
       <span>Domain: <a property="http://schema.org/domainIncludes" href="http://schema.org/BroadcastEvent">BroadcastEvent</a></span>
       <span>Range: <a property="http://schema.org/rangeIncludes" href="http://schema.org/Boolean">Boolean</a></span>
     </div>
