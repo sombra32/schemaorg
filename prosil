@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <title>Manejo de imagenes</title>
+  </head>
+  <body>
+    <img src="img/2.png" alt="imagen 2" title="mofle2" width="1000px" height=""/>
+     <img src="img/3.png" alt="imagen 3" title="mofle3" width="250px" height=""/>
+     <img src="img/4.png" alt="imagen 4" title="mofle4" width="250px" height=""/>
+     <img src="img/5.png" alt="imagen 5" title="mofle5" width="250px" height=""/>
+  </body>
+</html>
